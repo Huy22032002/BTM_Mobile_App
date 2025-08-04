@@ -37,3 +37,21 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+babel.config.js
+jest.config.js
+coverage/
+*.log
+.eslintcache
+
+
+.idea/                 # WebStorm, IntelliJ
+*.iml
+*.swp                 # nếu dùng Vim
+Thumbs.db             # Windows explorer
+
+out/
+build/
+.next/
+
+
